@@ -1,5 +1,5 @@
-# multicoin_autopay_bot - chat bot
-It is repository for chat bot: [@multicoin_autopay_bot](https://t.me/multicoin_autopay_bot)
+# Demopvttbot - chat bot
+It is repository for chat bot: [@Demopvttbot](https://t.me/Demopvttbot)
 
 ## What it is?
 This repository can be imported to [Bots.Business](https://bots.business) as a worked chat bot.
