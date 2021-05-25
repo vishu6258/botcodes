@@ -19,10 +19,10 @@ if (!stat) {
   if (wallet == undefined) {
     Bot.sendMessage("_❌ wallet Not set_")
   } else {
-    if (balance.value() < 10000) {
-      Bot.sendMessage("_❌ You have to own at least 10000 WHXC!_")
+    if (balance.value() < 100000) {
+      Bot.sendMessage("_❌ You have to own at least 100K ATRON!_")
     } else {
-      Bot.sendMessage("*📤 Enter Amount of WHXC*")
+      Bot.sendMessage("*📤 Enter Amount of ATRON*")
       Bot.runCommand("With1")
     }
   }
